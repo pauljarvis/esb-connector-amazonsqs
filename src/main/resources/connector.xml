@@ -22,7 +22,7 @@
         <dependency component="amazonSQS-message"/>
         <dependency component="amazonSQS-permission"/>
         <dependency component="amazonSQS-queue"/>
-        <description>amazonsqs connector libraries</description>
+        <description>amazonsqs connector libraries 20190702</description>
     </component>
     <icon>icon/icon-small.gif</icon>
 </connector>
